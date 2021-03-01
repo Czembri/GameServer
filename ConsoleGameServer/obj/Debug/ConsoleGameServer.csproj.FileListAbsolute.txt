@@ -1,0 +1,7 @@
+E:\Projects\C#\GameServer\ConsoleGameServer\bin\Debug\ConsoleGameServer.exe.config
+E:\Projects\C#\GameServer\ConsoleGameServer\bin\Debug\ConsoleGameServer.exe
+E:\Projects\C#\GameServer\ConsoleGameServer\bin\Debug\ConsoleGameServer.pdb
+E:\Projects\C#\GameServer\ConsoleGameServer\obj\Debug\ConsoleGameServer.csprojAssemblyReference.cache
+E:\Projects\C#\GameServer\ConsoleGameServer\obj\Debug\ConsoleGameServer.csproj.CoreCompileInputs.cache
+E:\Projects\C#\GameServer\ConsoleGameServer\obj\Debug\ConsoleGameServer.exe
+E:\Projects\C#\GameServer\ConsoleGameServer\obj\Debug\ConsoleGameServer.pdb
